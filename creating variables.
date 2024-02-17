@@ -1,0 +1,4 @@
+const a = 12;
+const b = 7;
+var c = "my birthday!";
+console.log(a, b, c);
