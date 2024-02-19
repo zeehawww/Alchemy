@@ -1,0 +1,6 @@
+const a = true;
+const b = false;
+let c = a && b;
+console.log("true",a);
+console.log("false",b);
+console.log("the result is:", c);
