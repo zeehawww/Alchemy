@@ -1,1 +1,1 @@
-learning java script from alchemy university.
+Hi! this is faziha. I'm currently learning Java script from Alchemy and few other platforms. I've started the journey from learning the basics where I've completed - JS Fundamental introduction, Java script basics in the 1st module and further moving on to the practice problems.
